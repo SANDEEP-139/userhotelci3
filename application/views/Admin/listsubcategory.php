@@ -55,7 +55,7 @@
                                     <div>
                                                 
                                      <div class="card-body">
-                                <table id="" class="display table table-bordered" cellspacing="0" style="width:100%">
+                                <table  class="display table table-bordered" cellspacing="0" style="width:100%">
                     <thead>
                         <tr>
                             

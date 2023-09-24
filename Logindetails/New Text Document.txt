@@ -1,0 +1,2 @@
+uname admin@gmail.com
+pass 123

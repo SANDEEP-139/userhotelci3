@@ -143,7 +143,7 @@ else{
 
 //subcategory//
 
-public function getproduct($par1=''){
+      public function getproduct($par1=''){
        
 
        $result = $this->db->get_where('add_subcategory',array('category'=>$par1))->result_array();
